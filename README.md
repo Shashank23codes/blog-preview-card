@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://github.com/Shashank23codes/blog-preview-card)
-- Live Site URL: [Add your live site URL here](https://shashank23codes.github.io/blog-preview-card/)
+- Solution URL: [https://github.com/Shashank23codes/blog-preview-card](https://github.com/Shashank23codes/blog-preview-card)
+- Live Site URL: [https://shashank23codes.github.io/blog-preview-card/](https://shashank23codes.github.io/blog-preview-card/)
 
 ## My Process
 
